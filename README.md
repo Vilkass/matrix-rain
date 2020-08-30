@@ -1,4 +1,4 @@
-# matrix-rain
+# Matrix-rain
 
 
 * Idea is taken from YouTube channel "The Coding Train"
