@@ -1,5 +1,5 @@
 # matrix-rain
 
-# Idea is taken from YouTube channel "The Coding Train"
 
-Written in Processing environment.
+* Idea is taken from YouTube channel "The Coding Train"
+* Written in Processing environment.
